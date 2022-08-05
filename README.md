@@ -1,0 +1,2 @@
+# Online-Polling-System
+This project is meant for voting processes like college elections or feedback forms. In this application we will  provide an online tool to vote on various questions submitted by administrator, voters can give their votes to  the options , the administrator can add all the details of candidates with the selected department. This application is developed in JAVA using GUI and database used is MySQL and tool used is IntelliJ IDE.
